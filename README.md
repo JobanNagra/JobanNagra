@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend , Web UI/Ux
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me Twitter "jaakenagra'
+
 
 <!---
 JobanNagra/JobanNagra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
